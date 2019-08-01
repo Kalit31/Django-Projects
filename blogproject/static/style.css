@@ -1,0 +1,21 @@
+.centerdiv
+        {
+        width:45%;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top: 50px;
+        text-align: center;
+        }
+        .login
+        {
+        width:45%;
+        margin-left:auto;
+        margin-right:auto;
+        text-align: center
+        }
+        .blog{
+        margin-top:0px;
+        width: 45%;
+        margin-left: auto;
+        margin-right:auto;
+        }
