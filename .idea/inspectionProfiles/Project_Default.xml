@@ -13,6 +13,9 @@
         <list>
           <option value="blogproject.blogproject.urls.blogapp" />
           <option value="blogproject.blogapp.views.user" />
+          <option value="views" />
+          <option value="e_store.store.urls.store" />
+          <option value="e_store.e_store.urls.store" />
         </list>
       </option>
     </inspection_tool>
